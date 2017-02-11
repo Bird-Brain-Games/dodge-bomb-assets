@@ -2,11 +2,7 @@
 Saves the rigidbody in the scene to a user created file
 (C) Graham Watson 2017
 
-Steps:
-1. get the first rigidbody in the scene
-2. open a file for writing
-3. write rigidbody components to the file
-4. close the file.
+README: make sure to change your asset path below.
 """
 import maya.cmds as cmds
 from collections import namedtuple
