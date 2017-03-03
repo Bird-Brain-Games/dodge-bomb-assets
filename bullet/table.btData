@@ -1,0 +1,12 @@
+--- Collider properties ---
+length:165.662384033
+radius:82.8311920166
+extents:165.66238403320312 76.34342956542969 88.01868438720703 
+collisionShape:1
+
+--- Rigidbody properties ---
+bodyType:1
+friction:1.0
+restitution:0.0
+mass:1.0
+
