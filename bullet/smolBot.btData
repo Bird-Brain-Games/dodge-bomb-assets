@@ -5,7 +5,7 @@ extents:2.1398260593414307 2.1181840896606445 1.9376180171966553
 collisionShape:1
 
 --- Rigidbody properties ---
-bodyType:1
+bodyType:2
 friction:1.0
 restitution:0.0
 mass:1.0
