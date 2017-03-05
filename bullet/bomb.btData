@@ -2,7 +2,7 @@
 length:1.17479503155
 radius:0.587397515774
 extents:0.8784719705581665 1.1747950315475464 0.8784719705581665 
-collisionShape:1
+collisionShape:2
 
 --- Rigidbody properties ---
 bodyType:2
