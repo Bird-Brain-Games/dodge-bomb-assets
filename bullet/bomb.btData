@@ -7,6 +7,6 @@ collisionShape:2
 --- Rigidbody properties ---
 bodyType:2
 friction:1.0
-restitution:0.0
+restitution:0.8
 mass:1.0
 
