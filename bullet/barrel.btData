@@ -1,7 +1,7 @@
 --- Collider properties ---
 length:7.09921884537
 radius:3.0
-extents:6.175389289855957 7.099218845367432 6.175387859344482 
+extents:5.5 7.099218845367432 5.5 
 collisionShape:7
 
 --- Rigidbody properties ---
